@@ -20,4 +20,3 @@ def queen(t):
     plt.imshow(Board)
     plt.show()
 queen(5)
-plt.show()
